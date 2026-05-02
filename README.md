@@ -1,7 +1,11 @@
 # PafLab02
 
-div align="center">
+<div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400"/>
 
-<br><br>
+<br>
+
+<p><i>Design. Code. Repeat.</i></p>
+
+</div>
